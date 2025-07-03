@@ -1,4 +1,4 @@
-# Stack Based Text Editor
+# Weather Application
 A lightweight, browser-based Weather application built with HTML, CSS, and JavaScript. 
 
 ## Features
