@@ -9,7 +9,8 @@ A lightweight, browser-based Weather application built with HTML, CSS, and JavaS
 - **HTML5**: Core structure and layout.
 - **CSS**: Responsive styling.
 - **JavaScript**: Logic, interactivity.
-
+## Live Demo:
+[Click to watch demo](https://weatherapplication001.netlify.app/)
 ## Project Structure
 ```
 Weather-App/
